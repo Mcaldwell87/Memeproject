@@ -10,6 +10,7 @@ h1 {
 
 .pic {
     width: 100%;
+    margin-left: 20%;
     margin-top: 100px;
     color: white;
     font-family: "Libre Baskerville", serif;
@@ -17,8 +18,8 @@ h1 {
   }
   
   .thisisfine {
-    border: 25px solid white;
-    width: 25%;
+    border: 20px solid white;
+    width: 50%;
 
   }
 
